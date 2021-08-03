@@ -1,0 +1,22 @@
+body{
+    background-color: yellow;
+}
+img{
+    width: 211.2px;
+    height: 460.8px;
+    border-radius: 50px;
+}
+.bob3{
+    border-radius: 50px;
+    background-color: lightgray;
+    width: 400px;
+    padding: 50px;
+}
+#footer{
+    background-color: pink;
+    padding-left: 100px;
+    border-radius: 20px;
+    width: 80%;
+    margin-left: 100px;
+    color: white;
+}
